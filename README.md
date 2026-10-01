@@ -126,8 +126,8 @@ Contributions are welcome! Please fork the repository, commit, push and submit a
 
 ## Copyright & License
 
-Copyright (c) 2025 Ammar Halabi - Released under the [MIT license](LICENSE).
+Copyright (c) 2026 Abhishek Kumar - Released under the [MIT license](LICENSE).
 
 ## Acknowledgements
 
-This theme is loosely based on the [Solo theme](https://github.com/TryGhost/Solo), and inspired by [Medium](https://medium.com).
+This theme is originally created by [Ammar Halabi](https://github.com/Woolball/Azure).
