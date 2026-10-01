@@ -2,11 +2,9 @@
 
 Azure is a minimal theme for [Ghost](https://github.com/TryGhost/Ghost) focused on professional sites and portfolios. The theme is simple and highly configurable, emphasizing clean aesthetics and reader-friendliness.
 
-**Demo: https://halabi.me**
-
 ## Installation
 
-1. [Download the theme ZIP file](https://github.com/Woolball/Azure/raw/main/dist/azure.zip)
+1. [Download the theme ZIP file](https://github.com/hellofuji/Azure/raw/main/dist/azure.zip)
 2. Log into Ghost and navigate to the `Theme` settings
 3. Change theme by uploading the downloaded ZIP file
 
@@ -38,7 +36,7 @@ Writings are implemented as regular **posts**:
 
 1. Create posts normally in Ghost
 2. No special tags are required
-3. Posts are ordered by their published date on both the home page and the writing page
+3. Posts are ordered by their published date on both the home page and the writings page
 
 ### Template Pages
 
@@ -48,8 +46,8 @@ To create dedicated listing pages for projects and writings:
    - The theme automatically applies the project listing template
    - You can add a title and content to this page - the project listings will appear below
    
-2. **Writing Page**: Create a page with the URL `/writing`
-   - The theme automatically applies the writing listing template
+2. **Writings Page**: Create a page with the URL `/writings`
+   - The theme automatically applies the writings listing template
    - Any content you add to this page will appear above the post listings
 
 ## Theme Configuration
@@ -89,8 +87,8 @@ Customize the theme by navigating to `Design & branding` in Ghost. The following
 
 - **Portfolio Section Title**: Customize the portfolio section heading (default: "Projects")
 - **Portfolio Page URL**: Set the URL for the full portfolio page (default: "/projects")
-- **Writings Section Title**: Customize the writings section heading (default: "Writing")
-- **Writings Page URL**: Set the URL for the full writings page (default: "/writing")
+- **Writings Section Title**: Customize the writings section heading (default: "Writings")
+- **Writings Page URL**: Set the URL for the full writings page (default: "/writings")
 
 ## Optional Features
 
